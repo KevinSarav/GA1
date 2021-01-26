@@ -1,0 +1,5 @@
+﻿  GROUP_ASSIGNMENT_GA1.cpp
+c:\users\kevin\source\repos\project5\project5\group_assignment_ga1.cpp(60): warning C4101: 'j': unreferenced local variable
+c:\users\kevin\source\repos\project5\project5\group_assignment_ga1.cpp(60): warning C4101: 'i': unreferenced local variable
+c:\users\kevin\source\repos\project5\project5\group_assignment_ga1.cpp(60): warning C4101: 'key': unreferenced local variable
+  Project5.vcxproj -> C:\Users\Kevin\source\repos\Project5\Debug\Project5.exe
